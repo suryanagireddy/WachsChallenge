@@ -14,7 +14,7 @@ namespace RainfallAnalyzer
                 var devices = dataReader.ReadDeviceList("Data/Devices.csv");
 
                 // Read rainfall data from the last 2 sets of CSV files
-                var rainfallData = dataReader.ReadRainfallData("Data/Data1.csv", "Data/Data2.csv");
+                var rainfallData = dataReader.ReadRainfallData("Data");
 
                 // Analyze rainfall data
                 var dataAnalyzer = new RainfallDataAnalyzer();

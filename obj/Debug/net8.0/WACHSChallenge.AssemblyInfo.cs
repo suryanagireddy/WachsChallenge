@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WACHSChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bf66646f0e467c7cd80bc802c4b851d8cd9fb73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbd7de0e336732490f201fe44434113b2ca813c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WACHSChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WACHSChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

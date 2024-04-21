@@ -24,9 +24,11 @@ namespace RainfallAnalyzer
             return devices;
         }
 
-        public List<RainfallData> ReadRainfallData(params string[] filepaths)
+        public List<RainfallData> ReadRainfallData(string folderPath)
         {
             List<RainfallData> rainfallData = new List<RainfallData>();
+
+            string[] filepaths = Directory.GetFiles(folderPath, "data*.csv");
 
             foreach (var filepath in filepaths)
             {
