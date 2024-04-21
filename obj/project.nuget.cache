@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbiZaqWj9r7ijkOcolRVA6FZm85Qbm4R59IJQI5xAGbdycUGPzGX++M6UkyANo73PwN70mWNfZdtU5L3BYae2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Surya\\WACHSChallenge\\WACHSChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Surya\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
